@@ -1,5 +1,5 @@
 # Consumption_Data
-2000-2024, Japan
+2000-2025, Japan
 
 # data sources:
 https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html
