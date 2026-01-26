@@ -1,5 +1,5 @@
 # Consumption_Data
-2000-2024, Japan
+2000-2025, Japan
 
 # data sources:
 https://www.meti.go.jp/statistics/tyo/kougyo/result-2.html
@@ -11,5 +11,4 @@ https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=0020056
 
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/belief12345679/Consumption_Dara/code/temp_code_1.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/belief12345679/Consumption_Data/blob/main/code/temp_code_1.ipynb)
