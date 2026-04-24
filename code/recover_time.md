@@ -96,4 +96,12 @@ $$\tau = -\frac{\Delta t}{\ln(C)}$$
 * The regression coefficient $C$ acts as the system's **"retention rate."** * Because $0 < C < 1$, its natural logarithm $\ln(C)$ will always be a negative number. The negative sign in the formula cancels this out, ensuring $\tau$ is positive.
 * **Practical shortcut:** If your data is monthly ($\Delta t = 1$), the formula simplifies nicely to:
   
-  $$\tau = -\frac{1}{\ln(C)}$$
+  $$\tau = -\frac{1}{\ln(C)}$$---
+marp: true
+theme: default
+paginate: true
+style: |
+  section {
+    font-size: 24px;
+  }
+---
